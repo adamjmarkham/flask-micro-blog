@@ -1,7 +1,7 @@
 *.py[cod]
 
 #IDE folder
-.idea
+.idea/
 
 # C extensions
 *.so
