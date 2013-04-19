@@ -1,8 +1,10 @@
 *.py[cod]
 
+#IDE folder
+.idea
+
 # C extensions
 *.so
-*.pyc
 
 # Packages
 *.egg
